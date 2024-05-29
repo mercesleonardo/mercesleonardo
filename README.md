@@ -47,7 +47,6 @@ Sou um desenvolvedor back-end apaixonado por tecnologia e programação. Sempre 
 
 - Git & GitHub
 - Composer
-- Nginx
 - Visual Studio Code
 - Postman
 
