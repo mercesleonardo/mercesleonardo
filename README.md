@@ -55,6 +55,9 @@ Sou um desenvolvedor back-end apaixonado por tecnologia e programação. Sempre 
 ### [GameReviews](https://github.com/mercesleonardo/GameReviews)
 O projeto GameReviews é uma plataforma interativa que permite aos usuários compartilhar suas críticas e avaliações sobre jogos. Com um design responsivo e dinâmico, o sistema oferece uma experiência amigável para os usuários.
 
+### [Olw](https://github.com/mercesleonardo/olw)
+OLW é um projeto desenvolvido em Laravel 11 com o uso de Docker através do Laravel Sail. Este projeto inclui uma API que sugere qual cerveja combina melhor com determinados tipos de comida. Além disso, o projeto utiliza Laravel Breeze para autenticação, MySQL como banco de dados, Redis para caching, Mailpit para envio de e-mails, MinIO para armazenamento de arquivos, Vue.js para a interface do usuário e Tailwind CSS para estilização.
+
 ## Conecte-se Comigo
 
 <div> 
