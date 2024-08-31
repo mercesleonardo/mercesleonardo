@@ -37,6 +37,7 @@ Sou um desenvolvedor back-end apaixonado por tecnologia e programação. Sempre 
   <img align="center" alt="Leo-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Leo-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Leo-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leo-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
@@ -46,6 +47,8 @@ Sou um desenvolvedor back-end apaixonado por tecnologia e programação. Sempre 
 ### Outras Ferramentas
 
 - Git & GitHub
+- Api Rest
+- Linux
 - Composer
 - Visual Studio Code
 - Postman
@@ -57,6 +60,9 @@ O projeto GameReviews é uma plataforma interativa que permite aos usuários com
 
 ### [Olw](https://github.com/mercesleonardo/olw)
 OLW é um projeto desenvolvido em Laravel 11 com o uso de Docker através do Laravel Sail. Este projeto inclui uma API que sugere qual cerveja combina melhor com determinados tipos de comida. Além disso, o projeto utiliza Laravel Breeze para autenticação, MySQL como banco de dados, Redis para caching, Mailpit para envio de e-mails, MinIO para armazenamento de arquivos, Vue.js para a interface do usuário e Tailwind CSS para estilização.
+
+### [Locadora de Carros](https://github.com/mercesleonardo/app_locadora_carros)
+Locadora de Carros é um projeto completo desenvolvido com Laravel 11 e Vue.js, integrado via API REST. A aplicação é executada em contêineres Docker utilizando Laravel Sail, o que facilita o ambiente de desenvolvimento e a escalabilidade. Para garantir a segurança, a autenticação e autorização são feitas por meio de tokens JWT (JSON Web Token). Além disso, o Redis é usado para cache e gerenciamento de sessões, melhorando o desempenho da aplicação.
 
 ## Conecte-se Comigo
 
