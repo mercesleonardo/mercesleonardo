@@ -55,14 +55,17 @@ Sou um desenvolvedor back-end apaixonado por tecnologia e programação. Sempre 
 
 ## Projetos em Destaque
 
-### [GameReviews](https://github.com/mercesleonardo/GameReviews)
-O projeto GameReviews é uma plataforma interativa que permite aos usuários compartilhar suas críticas e avaliações sobre jogos. Com um design responsivo e dinâmico, o sistema oferece uma experiência amigável para os usuários.
+### [Lucky Numbers](https://github.com/mercesleonardo/lucky-numbers)
+Sistema Laravel para gerenciar dados dos jogos de loteria e gerar jogos inteligentes baseados em análise histórica.
 
-### [Olw](https://github.com/mercesleonardo/olw)
-OLW é um projeto desenvolvido em Laravel 11 com o uso de Docker através do Laravel Sail. Este projeto inclui uma API que sugere qual cerveja combina melhor com determinados tipos de comida. Além disso, o projeto utiliza Laravel Breeze para autenticação, MySQL como banco de dados, Redis para caching, Mailpit para envio de e-mails, MinIO para armazenamento de arquivos, Vue.js para a interface do usuário e Tailwind CSS para estilização.
+### [Lucky Numbers frontend](https://github.com/mercesleonardo/lucky-numbers-frontend)
+Este é o frontend para o projeto Lucky Numbers, uma aplicação web para visualização de resultados de loterias, geração de jogos e conferência de resultados. A interface é construída com Vue.js 3, Vite e TailwindCSS.
 
-### [Locadora de Carros](https://github.com/mercesleonardo/app_locadora_carros)
-Locadora de Carros é um projeto completo desenvolvido com Laravel 11 e Vue.js, integrado via API REST. A aplicação é executada em contêineres Docker utilizando Laravel Sail, o que facilita o ambiente de desenvolvimento e a escalabilidade. Para garantir a segurança, a autenticação e autorização são feitas por meio de tokens JWT (JSON Web Token). Além disso, o Redis é usado para cache e gerenciamento de sessões, melhorando o desempenho da aplicação.
+### [Academy Lab](https://github.com/mercesleonardo/academy-lab)
+Uma plataforma completa de ensino online construída com Laravel e Filament, oferecendo trilhas de aprendizado organizadas, integração com vídeos e chat com inteligência artificial para suporte aos estudantes.
+
+### [Book Share](https://github.com/mercesleonardo/book-share)
+Descubra, avalie e compartilhe ótimos livros com a comunidade. Este projeto foi criado como portfólio para demonstrar domínio prático de Laravel moderno (v12), boas práticas de arquitetura, front-end com Blade + Tailwind + Alpine, testes automatizados e uma UX cuidadosa. A aplicação simula uma plataforma de compartilhamento e curadoria de livros, com foco em qualidade de código, acessibilidade e experiência do usuário.
 
 ## Conecte-se Comigo
 
